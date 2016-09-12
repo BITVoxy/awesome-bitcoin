@@ -6,8 +6,10 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 
 ## Table of Contents
 - [Awesome Bitcoin](#awesome-bitcoin)
-    - [Wallets](#wallets)
     - [Bitcoin / Blockchain APIs](#Blockchain-APIs)
+    - [Wallets](#wallets)
+- [Services/Websites]
+    - [Lending/Loans](#Lending)
 
 ## Wallets
 *Web/Offline wallets/provider.*
@@ -27,6 +29,11 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 * [smartbit.com.au] (smartbit.com.au) - 
 * [biteasy.com] (biteasy.com) - 
 
-
+# Serivices / Websites
+## Lending
+*Inclusive of general and Peer-to-Peer Leanding.*
+* [BTCPop](btcpop.co) - a unique P2P Banking experience with Instant Loans, Investment Pools, Collateral Tied Loans & More
+* [BTCJam](https://btcjam.com/) - World's largest bitcoin peer to peer lending marketplace
+* [Bitbond](https://www.bitbond.com/) - Bitcoin p2p lending
 
 
