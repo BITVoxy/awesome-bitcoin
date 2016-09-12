@@ -31,7 +31,7 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 
 ## SDK
 *Tools to help interact/create.*
-* [bitcoin JSON-RPC server]( https://en.bitcoin.it/wiki/API_reference_(JSON-RPC) ) -
+* [bitcoin JSON-RPC server](https://en.bitcoin.it/wiki/Bitcoin-JSON-RPC-Client) - Note: Also see https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)
 
 ## Software Wallet
 *Wallets running on the desktop.*
