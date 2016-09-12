@@ -6,14 +6,13 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 
 ## Table of Contents
 - [Awesome Bitcoin](#awesome-bitcoin)
+- [Software]
     - [Bitcoin / Blockchain APIs](#Blockchain-APIs)
-    - [Wallets](#wallets)
+    - [SDK](#SDK)
 - [Services/Websites]
+    - [Wallets](#wallets)
     - [Lending/Loans](#Lending)
-
-## Wallets
-*Web/Offline wallets/provider.*
-* [Blockchain.info] (http://Blockchain.info) - general web based bitcoin wallet
+    - [Exchanges](#Exchanges)
 
 ## Blockchain APIs
 *Blockchain transactional apis.*
@@ -27,13 +26,31 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 * [Bitcoin Chain] (https://bitcoinchain.com/block_explorer) - 
 * [blockonomics.co] (blockonomics.co) -
 * [smartbit.com.au] (smartbit.com.au) - 
-* [biteasy.com] (biteasy.com) - 
+* [biteasy.com] (biteasy.com) -
+* 
+## SDK
+*Tools to help interact/create.*
+* [bitcoin JSON-RPC server](https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)) -
 
-# Serivices / Websites
+## Software Wallet
+*Wallets running on the desktop.*
+* [Bitcoin Core - Windows, Linux and Mac][https://bitcoin.org/en/bitcoin-core/] - The Official Bitcoin Wallet 
+
+# Services / Websites
 ## Lending
-*Inclusive of general and Peer-to-Peer Leanding.*
+*Inclusive of general and Peer-to-Peer Leading.*
 * [BTCPop](btcpop.co) - a unique P2P Banking experience with Instant Loans, Investment Pools, Collateral Tied Loans & More
 * [BTCJam](https://btcjam.com/) - World's largest bitcoin peer to peer lending marketplace
 * [Bitbond](https://www.bitbond.com/) - Bitcoin p2p lending
+* [GETLine](landing.getline.in/) - Get Line is a peer to peer lending platform
+* [BitLendingClub](BitLendingClub.com) - Peer-to-Peer Bitcoin lending
+
+## Wallets
+*Web/Offline wallets/provider.*
+* [Blockchain.info] (http://Blockchain.info) - general web based bitcoin wallet
+
+## Exchanges
+*Active Bitcoin exchanges*
+* [Poloniex](Poloniex.com) - A US exchange trading in numerous virtual currencies, including Bitcoin, Ethereum, Litecoin and Dogecoin.
 
 
