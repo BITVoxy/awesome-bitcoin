@@ -14,7 +14,7 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
     - [Lending/Loans](#Lending)
     - [Exchanges](#Exchanges)
 
-                    # Software
+# Software
 ## Blockchain APIs
 *Blockchain transactional apis.*
 * [Blockchain.info] (blockchain.info) - general web based bitcoin wallet
@@ -37,7 +37,7 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 *Wallets running on the desktop.*
 * [Bitcoin Core - Windows, Linux and Mac][https://bitcoin.org/en/bitcoin-core/] - The Official Bitcoin Wallet 
 
-                    # Services / Websites
+# Services / Websites
 ## Lending
 *Inclusive of general and Peer-to-Peer Leading.*
 * [BTCPop](btcpop.co) - a unique P2P Banking experience with Instant Loans, Investment Pools, Collateral Tied Loans & More
