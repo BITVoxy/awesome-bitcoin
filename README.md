@@ -6,14 +6,15 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 
 ## Table of Contents
 - [Awesome Bitcoin](#awesome-bitcoin)
-- [Software]
+- [Software](#Software)
     - [Bitcoin / Blockchain APIs](#Blockchain-APIs)
     - [SDK](#SDK)
-- [Services/Websites]
+- [Services/Websites](#Service / Websites)
     - [Wallets](#wallets)
     - [Lending/Loans](#Lending)
     - [Exchanges](#Exchanges)
 
+                    # Software
 ## Blockchain APIs
 *Blockchain transactional apis.*
 * [Blockchain.info] (blockchain.info) - general web based bitcoin wallet
@@ -27,16 +28,16 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 * [blockonomics.co] (blockonomics.co) -
 * [smartbit.com.au] (smartbit.com.au) - 
 * [biteasy.com] (biteasy.com) -
-* 
+
 ## SDK
 *Tools to help interact/create.*
-* [bitcoin JSON-RPC server](https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)) -
+* [bitcoin JSON-RPC server]( https://en.bitcoin.it/wiki/API_reference_(JSON-RPC) ) -
 
 ## Software Wallet
 *Wallets running on the desktop.*
 * [Bitcoin Core - Windows, Linux and Mac][https://bitcoin.org/en/bitcoin-core/] - The Official Bitcoin Wallet 
 
-# Services / Websites
+                    # Services / Websites
 ## Lending
 *Inclusive of general and Peer-to-Peer Leading.*
 * [BTCPop](btcpop.co) - a unique P2P Banking experience with Instant Loans, Investment Pools, Collateral Tied Loans & More
@@ -52,5 +53,6 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 ## Exchanges
 *Active Bitcoin exchanges*
 * [Poloniex](Poloniex.com) - A US exchange trading in numerous virtual currencies, including Bitcoin, Ethereum, Litecoin and Dogecoin.
+* [ShapeShift](ShapeShift.io) - The fastest   way to swap cryptocurrencies. no account required.
 
 
