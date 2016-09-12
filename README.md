@@ -35,7 +35,7 @@ Please see [CONTRIBUTING](https://github.com/bitvoxy/awesome-bitcoin/blob/master
 
 ## Software Wallet
 *Wallets running on the desktop.*
-* [Bitcoin Core - Windows, Linux and Mac][https://bitcoin.org/en/bitcoin-core/] - The Official Bitcoin Wallet 
+* [Bitcoin Core - Windows, Linux and Mac](https://bitcoin.org/en/bitcoin-core/) - The Official Bitcoin Wallet 
 
 # Services / Websites
 ## Lending
